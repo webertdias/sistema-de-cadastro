@@ -3,11 +3,11 @@
 Nesse sistema de cadastro a pessoa interessada em ser um DEV precisa preencher um formulario de cadastro.Os campos do formulário tem exemplos de como 
 deve ser preenchido.
 
->Status do projeto: Em desenvolvimento
+Status do projeto: Finalizado
 
-Construído com
-.HTML
-.CSS
+Desenvolvido com
+HTML
+CSS
 
 Autor
 Desenvolvido por Webert Dias
